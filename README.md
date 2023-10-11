@@ -1,7 +1,11 @@
 <!-- # AIOps-project-DVC-NLP-uscase
 AIOps project DVC-NLP-uscase -->
 
-![AIOps-project-DVC-NLP-usecase](https://socialify.git.ci/c17hawke/AIOps-project-DVC-NLP-usecase/image?forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![AIOps-project-DVC-NLP-usecase](https://socialify.git.ci/Oladapoduk/NLP-Project-Classification?language=1&owner=1&name=1&stargazers=1&theme=Light)
+* "NLP Classification with MLFlow and DVC" is an innovative project that combines the power of natural language processing (NLP) and machine learning for text classification tasks. MLFlow,
+  a versatile machine learning lifecycle management tool, is used to orchestrate the development and deployment of NLP models. Additionally, Data Version Control (DVC) is integrated into the workflow to 
+  efficiently manage and version control the large datasets typically associated with NLP tasks. This project aims to streamline the end-to-end process of training, tracking, 
+  and deploying NLP classification models, ensuring reproducibility and scalability while handling complex and evolving text data.
 
 * data is available at - [this googele drive link](https://drive.google.com/file/d/13A0RtvZZanHXKZNbz5JKwjjO2FedNQCR/view?usp=sharing)
 
